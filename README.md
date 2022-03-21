@@ -3,8 +3,6 @@
 
 Clack, clack, clack. That's the sound of my room 10PM in the evening, studying for programming 💻. Growing to like drawing 🎨, I have never thought in my life that I will become a programmer 👨🏽‍💻. Yes, being able to create is what I have dreamt, but as an artist, not a programmer. Oh, but programmers do create right? 🤘
 
-<br><br>
-
 ```java
 public class Person {
     private String name;
