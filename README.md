@@ -29,9 +29,10 @@ public class Person {
 
         /* Tech stacks or packages that I have ever use */
         String[] techStacks = {
-                "Pandas", "NumPy", "SciKit", "TensorFlow",
-                "BeautifulSoup", "Selenium", "Flask",
-                "ReactJS", "Code Igniter 4"
+                /* Python */ "Pandas", "NumPy", "Sci-Kit", "TensorFlow",
+                             "BeautifulSoup", "Selenium", "Flask", 
+                /* JavaScript */ "ReactJS", 
+                /* PHP */ "Code Igniter 4"
         };
     }
 
@@ -40,6 +41,7 @@ public class Person {
 
         /* I am interested in */
         interests.add("Artificial Intelligence / Machine Learning");
+        interests.add("Algorithm & Engineering");
         interests.add("Arts: visual, music, and literature");
         interests.add("MotoGP ;)");
 
