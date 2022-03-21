@@ -1,9 +1,8 @@
 
 # Hi, I am Maria Khelli! 👋
 
-Clack, clack, clack. That's the sound of my room 10PM in the evening, studying for programming 💻. Growing to like drawing 🎨, I have never thought in my life that I will become a programmer 👨🏽‍💻. 
+Clack, clack, clack. That's the sound of my room 10PM in the evening, studying for programming 💻. Growing to like drawing 🎨, I have never thought in my life that I will become a programmer 👨🏽‍💻. Yes, being able to create is what I have dreamt, but as an artist, not a programmer. Oh, but programmers do create right? 🤘
 
-Yes, being able to create is what I have dreamt, but as an artist, not a programmer. Oh, but programmers do create right? 🤘
 <br><br>
 
 ```java
@@ -63,8 +62,6 @@ public class Person {
     }
 }
 ```
-<br>
-
 ### Thank you for scrolling down✨! I hope I can be a great developer, so I can help more people😉
 
 <br>
