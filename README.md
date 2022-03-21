@@ -1,7 +1,7 @@
 
 # Hi, I am Maria Khelli! 👋
 
-Clack, clack, clack. That's the sound of my room 10PM in the evening, studying for programming 💻. Growing to like drawing 🎨, I have never thought in my life that I will become a programmer 👨🏽‍💻. Yes, being able to create is what I have dreamt, but as an artist, not a programmer. Oh, but programmers do create right? 🤘
+"Ctak, ctak, ctak." That's the sound of my room 10PM in the evening, studying for programming 💻. Growing to like drawing 🎨, I have never thought in my life that I will become a programmer 👨🏽‍💻. Yes, being able to create is what I have dreamed of, but as an artist, not a programmer. Oh, but programmers do create right? 🤘
 
 ```java
 public class Person {
