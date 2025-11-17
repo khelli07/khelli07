@@ -2,7 +2,7 @@
 
 <div align="left">
 
-# Hi, I'm Khelli 👋
+# Ey, Khelli here 😉
 
 Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land safely in time.
 
@@ -18,7 +18,7 @@ Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land 
 
 - [TikTok](https://www.tiktok.com/en/) [Singapore] (May 25-Present) - Software Engineer (Backend) - TT LIVE Wallet (Transaction & Settlement/Payout)
 - MarinaChain [Singapore-South Korea] (Jun 24-May 25) - Software Engineer (Backend)
-- **Internships**
+- _Internships_
   - MarinaChain (Jan 24-Jun 24) - Software Engineer (Fullstack)
   - [tiket.com](https://m.tiket.com/) (Jan 23-Dec 23) - Machine Learning Engineer
   - [Garena](https://www.garena.co.id/) (Apr 22-Jan 23) - Software Engineer (Backend)
@@ -59,13 +59,14 @@ Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=khelli07&label=Profile%20views&color=0e75b6&style=flat" alt="khelli07" />
 </p>
-<p align="left">
-  <a href="https://x.com/khelli2002" target="blank">
-    <i class="devicon-twitter-original" alt="khelli on X" height="42" width="62"></i>
+<p align="left" style="display:flex;gap:12px;">
+  <a href="https://x.com/khelli2002" target="blank" title="X / Twitter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="khelli on X" height="36" />
   </a>
-  <a href="https://www.linkedin.com/in/khelli07/" target="blank">
-    <i class="devicon-linkedin-plain colored" alt="khelli on LinkedIn" height="42" width="62"></i>
+  <a href="https://www.linkedin.com/in/khelli07/" target="blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="khelli on LinkedIn" height="36" />
+  </a>
+  <a href="https://medium.com/@khelli07" target="blank" title="Medium">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="khelli on Medium" height="36" />
   </a>
 </p>
-
-[![Khelli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khelli07&theme=tokyo-night&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github-readme-activity-graph.vercel.app/graph?username=khelli07)
