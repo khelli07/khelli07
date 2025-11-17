@@ -54,19 +54,17 @@ Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land 
 
 ---
 
-### 📫 Connect with me
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=khelli07&label=Profile%20views&color=0e75b6&style=flat" alt="khelli07" />
 </p>
-<p align="left" style="display:flex;gap:12px;">
+<p align="left" style="display:flex;gap:8px;flex-wrap:wrap;">
   <a href="https://x.com/khelli2002" target="blank" title="X / Twitter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="khelli on X" height="36" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="khelli on X" />
   </a>
   <a href="https://www.linkedin.com/in/khelli07/" target="blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="khelli on LinkedIn" height="36" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="khelli on LinkedIn" />
   </a>
   <a href="https://medium.com/@khelli07" target="blank" title="Medium">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="khelli on Medium" height="36" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="khelli on Medium" />
   </a>
 </p>
