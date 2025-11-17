@@ -1,22 +1,18 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div align="center">
+<div align="left">
 
 # Hi, I'm Khelli 👋
 
-<p style="max-width:640px;font-size:1.05rem;">
-  Currently baby-sitting TikTok LIVE wallet, settlement, and payout rails so gifts & creator cashouts never miss a beat.
-</p>
+Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land safely in time.
 
-<p align="center" style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;">
+<p align="left" style="display:flex;gap:10px;justify-content:left;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Backend%20Engineer-TikTok%20LIVE%20-ff69b4?style=flat-square&logo=tiktok&logoColor=white" alt="Role badge" />
   <img src="https://img.shields.io/badge/Based%20in-Singapore-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location badge" />
-  <img src="https://img.shields.io/badge/Currently%20studying-Agentic%20AI%20%2F%20Context%20Engineering-1abc9c?style=flat-square&logo=readme&logoColor=white" alt="Currently reading Agentic AI and context engineering" />
+  <img src="https://img.shields.io/badge/Currently studying-Agentic%20AI%20%2F%20Context%20Engineering-1abc9c?style=flat-square&logo=readme&logoColor=white" alt="Currently reading Agentic AI and context engineering" />
 </p>
 
 </div>
-
----
 
 ### 💼 Work
 
@@ -58,24 +54,18 @@
 
 ---
 
-<h3 align="center">
-  📫 Connect with me
-</h3>
+### 📫 Connect with me
 
-<p align="center" style="margin-bottom:8px;">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=khelli07&label=Profile%20views&color=0e75b6&style=flat" alt="khelli07" />
 </p>
-
-<p align="center" style="display:flex;gap:18px;justify-content:center;">
-  <a href="https://x.com/khelli2002" target="blank" title="DM me on X">
-    <i class="devicon-twitter-original" height="42" width="62"></i>
+<p align="left">
+  <a href="https://x.com/khelli2002" target="blank">
+    <i class="devicon-twitter-original" alt="khelli on X" height="42" width="62"></i>
   </a>
-  <a href="https://www.linkedin.com/in/khelli07/" target="blank" title="Connect on LinkedIn">
-    <i class="devicon-linkedin-plain colored" height="42" width="62"></i>
-  </a>
-  <a href="https://medium.com/@khelli07" target="blank" title="Read my Medium">
-    <img src="https://cdn.simpleicons.org/medium/000000/ffffff" height="42" width="62" />
+  <a href="https://www.linkedin.com/in/khelli07/" target="blank">
+    <i class="devicon-linkedin-plain colored" alt="khelli on LinkedIn" height="42" width="62"></i>
   </a>
 </p>
 
-[![Khelli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khelli07&theme=github-light&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github-readme-activity-graph.vercel.app/graph?username=khelli07)
+[![Khelli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khelli07&theme=tokyo-night&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github-readme-activity-graph.vercel.app/graph?username=khelli07)
