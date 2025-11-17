@@ -2,7 +2,7 @@
 
 <div align="left">
 
-# Eyyo! Khelli here
+# Eyyo! Khelli here 🙌
 
 Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land safely in time.
 
