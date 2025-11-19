@@ -4,7 +4,7 @@
 
 # Eyyo! Khelli here 🙌
 
-Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land safely in time.
+Currently keeping TikTok LIVE wallets caffeinated so your hearts ❤️ and roses 🌹 can land safely in time.
 
 <p align="left" style="display:flex;gap:10px;justify-content:left;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Backend%20Engineer-TikTok%20LIVE%20-ff69b4?style=flat-square&logo=tiktok&logoColor=white" alt="Role badge" />
@@ -16,25 +16,25 @@ Currently keeping TikTok LIVE wallets caffeinated so your hearts and roses land 
 
 ### 💼 Work
 
-- [TikTok](https://www.tiktok.com/en/) [Singapore] **(May 25–Present)** - Software Engineer (Backend) - TT LIVE Wallet (Transaction & Settlement/Payout)
+- [TikTok ↗](https://www.tiktok.com/en/ ) [Singapore] **(May 25–Present)** - Software Engineer (Backend) - TT LIVE Wallet (Transaction & Settlement/Payout)
 - MarinaChain [Singapore-South Korea] **(Jun 24–May 25)** - Software Engineer (Backend)
 - Internships
   - MarinaChain **(Jan 24–Jun 24)** - Software Engineer (Fullstack)
-  - [tiket.com](https://m.tiket.com/) **(Jan 23–Dec 23)** - Machine Learning Engineer
-  - [Garena](https://www.garena.co.id/) **(Apr 22–Jan 23)** - Software Engineer (Backend)
-  - [NinjaVan](https://www.ninjavan.co/en-sg) **(May 22–Aug 22)** - Software Engineer (Backend)
+  - [tiket.com ↗](https://m.tiket.com/) **(Jan 23–Dec 23)** - Machine Learning Engineer
+  - [Garena ↗](https://www.garena.co.id/) **(Apr 22–Jan 23)** - Software Engineer (Backend)
+  - [NinjaVan ↗](https://www.ninjavan.co/en-sg) **(May 22–Aug 22)** - Software Engineer (Backend)
 
 ### 🔬 Open-Source contribution
 
-- Google Summer of Code (GSOC) - Rocket.Chat (2024 as mentee, 2025 as mentor)
-- SEACrowd datahub, EMNLP 2024 publication [here](https://aclanthology.org/2024.emnlp-main.296/).
+- Google Summer of Code (GSOC) - Rocket.Chat (2024 as [mentee ↗](https://khelli07.medium.com/spending-summer-as-a-google-summer-of-code-contributor-at-rocket-chat-5d194b08df1c), 2025 as [mentor ↗](https://summerofcode.withgoogle.com/programs/2025/projects/B6ewDucB))
+- SEACrowd datahub, [EMNLP 2024 publication ↗](https://aclanthology.org/2024.emnlp-main.296/).
 
 ### 🎓 Education
 
-- Bandung Institute of Technology (ITB) with CGPA (3.94/4.00) - Top Graduate/Valedictorian (covered [here!](https://itb.ac.id/news/the-story-of-maria-khelli-itbs-top-bachelors-graduate-in-april-2025-from-the-world-of-design-to-engineering/62397))
-- National University of Singapore (NUS) Overseas College ([NOC Inbound](https://enterprise.nus.edu.sg/education-programmes/nus-overseas-colleges/)) - Singapore Region.
-- Thesis in [multilingual continual learning](https://aclanthology.org/20.25.fieldmatters-1.2/). Accepted in ACL Workshop 2025 "Field Matters".
-- Teaching assistant for ITB Informatics AI lab, under Indonesian notable professor such as [Ayu Purwarianti](https://scholar.google.com/citations?user=8jUro_cAAAAJ&hl=id).
+- Bandung Institute of Technology (ITB) with CGPA (3.94/4.00) - Top Graduate/Valedictorian (covered [here ↗](https://itb.ac.id/news/the-story-of-maria-khelli-itbs-top-bachelors-graduate-in-april-2025-from-the-world-of-design-to-engineering/62397))
+- National University of Singapore (NUS) Overseas College ([NOC Inbound ↗](https://enterprise.nus.edu.sg/education-programmes/nus-overseas-colleges/)) - Singapore Region.
+- Thesis in [multilingual continual learning ↗](https://aclanthology.org/20.25.fieldmatters-1.2/). Accepted in ACL Workshop 2025 "Field Matters".
+- Teaching assistant for ITB Informatics AI lab, under Indonesian notable professor such as [Ayu Purwarianti ↗](https://scholar.google.com/citations?user=8jUro_cAAAAJ&hl=id).
 
 ### 📚 Recently read (to 100%)
 
